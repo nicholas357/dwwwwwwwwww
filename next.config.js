@@ -5,5 +5,4 @@ module.exports = {
     ignoreDuringBuilds: true,
   },
   reactStrictMode: true,
-  distDir: 'build',
 };
